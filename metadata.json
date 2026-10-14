@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI",
+  "description": "AI-Powered Interview Practice Platform for college students and job seekers with realistic mock sessions, structured rubrics, and instant feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
